@@ -1,51 +1,101 @@
-<h1 align="center">Hi 👋, I'm Rajesh Pedagoni</h1>
-<h3 align="center">I’m a Full Stack Developer with 5 years of experience designing scalable enterprise applications in FinTech, E-commerce, and Healthcare domains.</h3>
+<h1 align="center">Hi 👋, I'm Rajesh Goud</h1>
+<h3 align="center">🚀 Full Stack Developer | Java | React | Cloud-Native Architectures</h3>
 
 <!-- Coder GIF - Centered -->
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=18F1w14P5MVuioj1dDCMDWhmy8fSZUgsP" alt="Coder GIF" width="400">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coding GIF" width="400">
+</p>
+
+<!-- Profile Views Counter -->
+<p align="left">
+  <a href="https://github.com/rajesh-p">
+    <img src="https://komarev.com/ghpvc/?username=rajesh-p&label=Profile%20Views&color=blue&style=flat-square" alt="profile-views" />
+  </a>
 </p>
 
 <ul align="left">
-  <li>💼 Currently working as a Full Stack Developer</li>
-  <li>🌟 Skilled in Terraform </li>
-  <li>👯 Looking to collaborate on E-Commerece and HealthCare projects</li>
+  <li>💼 Full Stack Developer @ Intuit, Kansas City, MO</li>
+  <li>🎯 5 years of experience across Healthcare, E-commerce, and Fintech</li>
+  <li>🛠 Specializes in Java, Spring Boot, Kafka, React.js, Microservices</li>
+  <li>☁️ Skilled in AWS, Docker, Kubernetes, CI/CD, Redis, Terraform</li>
+  <li>🔍 Master's in CS from University of Missouri - Kansas City</li>
+  <li>👯 Open to collaborations on scalable backend and cloud projects</li>
 </ul>
 
-- **📫 How to reach me:** [sumanthkumar0527@gmail.com](mailto:sumanthkumar0527@gmail.com)
-- **⚡ Fun fact:** I love Coding
+- 📫 **Reach me at**: [rajeshgoud5698@gmail.com](mailto:rajeshgoud5698@gmail.com)
+- ⚡ **Fun Fact**: I love boosting backend speed, uptime, and scalability in real-world applications.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/rajesh-p-0291a628b/" target="_blank" style="text-decoration:none;">
+  <a href="https://www.linkedin.com/in/rajesh-p-0291a628b/" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  
-  <a href="mailto:rajeshraja@gmail.com" style="text-decoration:none;">
+  <a href="mailto:rajeshgoud5698@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  
-  <a href="https://github.com/Rajesh12goud" target="_blank" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
 </p>
 
-<!-- View Resume -->
+<!-- Resume Section -->
 <h3 align="left">📄 Resume:</h3>
 <p align="left">
-  <a href="https://drive.google.com/file/d/1Hn6o1BaXp8kglhrwRmITlZ2gLGmjA7Wa/view?usp=sharing" target="_blank">
-    🔍 View My Resume
-  </a>
+  <a href="https://drive.google.com/file/d/1Hn6o1BaXp8kglhrwRmITlZ2gLGmjA7Wa/view?usp=sharing" target="_blank">🔍 View My Resume</a>
 </p>
-
-<!-- Download Resume -->
 <p align="left">
-  <a href="https://drive.google.com/uc?export=download&id=1Hn6o1BaXp8kglhrwRmITlZ2gLGmjA7Wa" target="_blank">
-    📥 Download My Resume
-  </a>
+  <a href="https://drive.google.com/uc?export=download&id=1Hn6o1BaXp8kglhrwRmITlZ2gLGmjA7Wa" target="_blank">📥 Download My Resume</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nativescript.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/nativescript.svg" alt="nativescript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<!-- Experience -->
+<h2>💼 Experience</h2>
+<ul>
+  <li><strong>Intuit</strong> (Jun 2024 – Present) — Kansas City, MO
+    <ul>
+      <li>Revamped legacy system to Node.js microservices, reducing latency by 25% and server downtime by 10 hours/month.</li>
+      <li>Built React + Redux feature with 20% increase in user engagement.</li>
+      <li>Optimized MySQL queries; cut load times by 15%.</li>
+      <li>Migrated REST APIs to GraphQL, reducing payload by 35%.</li>
+      <li>Secured platform via RBAC with Spring Security and JWT.</li>
+      <li>Boosted API throughput 60% with Redis caching & async logic.</li>
+    </ul>
+  </li>
+  <li><strong>NetMeds</strong> (Jun 2020 – Dec 2022) — Hyderabad, India
+    <ul>
+      <li>Scaled MongoDB for 2TB+ EMR data; rapid patient access.</li>
+      <li>Monitored 25+ Spring Boot microservices with Prometheus/Grafana.</li>
+      <li>Integrated Kafka Connect for 5+ data sources; 70% cut in manual ETL.</li>
+      <li>Deployed 30+ microservices via Docker & EKS for 1M+ users.</li>
+      <li>Designed ReactJS dashboards, increasing staff efficiency by 40%.</li>
+    </ul>
+  </li>
+  <li><strong>FlipKart</strong> (Apr 2019 – May 2020) — Hyderabad, India
+    <ul>
+      <li>Built REST APIs for cart/catalog, reducing drop-offs by 20%.</li>
+      <li>Created 12+ DDD-based microservices; 30% reduction in downtime.</li>
+      <li>Optimized Java apps; cut memory by 20% and improved startup 15%.</li>
+      <li>Reduced backend load by 40% using Redis/Memcached cache.</li>
+    </ul>
+  </li>
+</ul>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajesh12goud&show_icons=true&locale=en" alt="rajesh12goud" /></p>
+<!-- Skills -->
+<h2>🛠 Skills & Tools</h2>
+<ul>
+  <li><strong>Languages:</strong> Java, C++, JavaScript, Python, SQL, MongoDB</li>
+  <li><strong>API:</strong> REST, GraphQL, OAuth2, JWT, Redis, Microservices</li>
+  <li><strong>Frameworks:</strong> Spring Boot, Hibernate, Node.js, Express.js, React.js, Selenium, JUnit, Cucumber</li>
+  <li><strong>Databases:</strong> MySQL, PostgreSQL, MongoDB, Redis</li>
+  <li><strong>Cloud & DevOps:</strong> AWS (Lambda, EC2, S3, RDS, EKS), Jenkins, Docker, Kubernetes, Terraform, Ansible</li>
+  <li><strong>Monitoring & CI/CD:</strong> Git, Grafana, SonarQube, Maven, Bash</li>
+  <li><strong>Messaging:</strong> Kafka, RabbitMQ</li>
+</ul>
+
+<!-- Education -->
+<h2>🎓 Education</h2>
+<ul>
+  <li><strong>University of Missouri Kansas City</strong> — Master’s in CS (GPA: 3.60/4.00), Dec 2024</li>
+  <li><strong>JNTU Hyderabad</strong> — B.Tech (GPA: 3.22/4.00), May 2020</li>
+</ul>
+
+<!-- GitHub Stats -->
+<h2>📊 GitHub Stats</h2>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajesh-p&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajesh-p&show_icons=true&locale=en" alt="GitHub Stats" /></p>
