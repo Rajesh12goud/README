@@ -94,8 +94,3 @@
   <li><strong>University of Missouri Kansas City</strong> — Master’s in CS (GPA: 3.60/4.00), Dec 2024</li>
   <li><strong>JNTU Hyderabad</strong> — B.Tech (GPA: 3.22/4.00), May 2020</li>
 </ul>
-
-<!-- GitHub Stats -->
-<h2>📊 GitHub Stats</h2>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajesh-p&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajesh-p&show_icons=true&locale=en" alt="GitHub Stats" /></p>
