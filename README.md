@@ -38,7 +38,7 @@
 <!-- Resume Section -->
 <h3 align="left">📄 Resume:</h3>
 <p align="left">
-  <a href="https://drive.google.com/file/d/1Hn6o1BaXp8kglhrwRmITlZ2gLGmjA7Wa/view?usp=sharing" target="_blank">🔍 View My Resume</a>
+  <a href="https://drive.google.com/file/d/1fwuonKKyLgkqxhYM2UvTy-bHZw9sS-zr/view?usp=sharing" target="_blank">🔍 View My Resume</a>
 </p>
 <p align="left">
   <a href="https://drive.google.com/uc?export=download&id=1Hn6o1BaXp8kglhrwRmITlZ2gLGmjA7Wa" target="_blank">📥 Download My Resume</a>
