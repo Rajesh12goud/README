@@ -41,7 +41,7 @@
   <a href="https://drive.google.com/file/d/1fwuonKKyLgkqxhYM2UvTy-bHZw9sS-zr/view?usp=sharing" target="_blank">🔍 View My Resume</a>
 </p>
 <p align="left">
-  <a href="https://drive.google.com/file/d/1fwuonKKyLgkqxhYM2UvTy-bHZw9sS-zr/view?usp=sharing" target="_blank">📥 Download My Resume</a>
+  <a href="https://drive.google.com/uc?export=download&id=1fwuonKKyLgkqxhYM2UvTy-bHZw9sS-zr" target="_blank">📥 Download My Resume</a>
 </p>
 
 <!-- Experience -->
