@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rajesh Goud</h1>
+<h1 align="center">Hi 👋, I'm Rajesh Pedagoni</h1>
 <h3 align="center">🚀 Full Stack Developer | Java | React | Cloud-Native Architectures</h3>
 
 <!-- Coder GIF - Centered -->
