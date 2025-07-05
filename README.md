@@ -20,8 +20,7 @@
   <li>☁️ Skilled in AWS, Docker, Kubernetes, CI/CD, Redis, Terraform</li>
   <li>🔍 Master's in CS from University of Missouri - Kansas City</li>
   <li>👯 Open to collaborations on scalable backend and cloud projects</li>
-</ul>
-
+  </ul>
 - 📫 **Reach me at**: [rajeshgoud5698@gmail.com](mailto:rajeshgoud5698@gmail.com)
 - ⚡ **Fun Fact**: I love boosting backend speed, uptime, and scalability in real-world applications.
 
